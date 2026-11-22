@@ -1,0 +1,3 @@
+## Projekt leírása
+
+Egy olyan applikáció, amely segítségével a felhasználók az általuk megadott feltételek alapján, egy adott eseményre vagy élethelyzetre megfelelő idézetet tudnak keresni. Például, a felhasználó egy olyan ismerősének szeretne születésnapi üdvözlőkártyát küldeni, aki nagyon szereti a gyűrűk urát, ezért elkezd az interneten olyan idézeteket keresni, amikben szerepel a gyűrűk ura és a születésnap témaként, de nem talál számára megfelelőt, mert minden oldalon ugyanazokat olvassa, ezért elkezdi olvasni a könyveket és feljegyezni a jónak tűnő idézeteket, így egy pár perces feladatból pár órás feladat lett. 
